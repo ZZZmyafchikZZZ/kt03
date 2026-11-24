@@ -14,5 +14,5 @@ npx prisma migrate dev --name init
 
 3. Запустите сервер:
 ```bash
-npm run dev
+npm start
 ```
